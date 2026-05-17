@@ -1,3 +1,9 @@
+old/
+.vscode/
+.venv/
+*.md
+*copy.ipynb
+
 # Prerequisites
 *.d
 
